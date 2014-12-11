@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 772d894739e4b644981adbd7b5d4121f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ScreenFlashFab: {fileID: 100000, guid: 4b820d9c93aeee04f916fa9e2aa36a1c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
